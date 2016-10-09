@@ -1,0 +1,23 @@
+{
+    "name": "monster-manager",
+    "version": "1.0.0",
+    "description": "",
+    "main": "run.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/ycgame/monster-manager.git"
+    },
+    "author": "Taichiro Suzuki",
+    "license": "ISC",
+    "bugs": {
+	"url": "https://github.com/ycgame/monster-manager/issues"
+    },
+    "homepage": "https://github.com/ycgame/monster-manager#readme",
+    "dependencies": {
+	"request": "^2.74.0",
+	"websocket": "^1.0.23"
+    }
+}
